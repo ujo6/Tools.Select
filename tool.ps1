@@ -10,7 +10,7 @@ Write-Host @"
       ██║   ╚██████╔╝╚██████╔╝███████╗
       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
 "@ -ForegroundColor Cyan
-Write-Host "        BY DANNI K — TOOLS.SELECT v1.0" -ForegroundColor Yellow
+Write-Host "        BY ujo6 — TOOLS.SELECT v1.0" -ForegroundColor Yellow
 Write-Host ""
 
 Add-Type -AssemblyName System.Windows.Forms
